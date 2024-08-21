@@ -1,0 +1,6 @@
+org\ibarra\crudfront\servlets\SVFactura$1.class
+org\ibarra\crudfacturafront\resources\JakartaEE10Resource.class
+org\ibarra\crudfront\servlets\SVFactura.class
+org\ibarra\crudfacturafront\model\Detalle.class
+org\ibarra\crudfacturafront\model\Cabecera.class
+org\ibarra\crudfacturafront\JakartaRestConfiguration.class
